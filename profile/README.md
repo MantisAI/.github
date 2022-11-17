@@ -11,6 +11,6 @@ Mantis NLP is an Artificial Intelligence consultancy that focusses on Natural La
 Tools 🛠  
 📈 nervaluate: https://github.com/MantisAI/nervaluate  
 🛎 bell: https://github.com/MantisAI/bell  
-🐻 hfie: https://github.com/MantisAI/hfie  
+🐻 hugie: https://github.com/MantisAI/hfie  
 💬 rasa_converter: https://github.com/nsorros/rasa-converter  
 ⌨️ remote: https://github.com/ivyleavedtoadflax/remote.py  
